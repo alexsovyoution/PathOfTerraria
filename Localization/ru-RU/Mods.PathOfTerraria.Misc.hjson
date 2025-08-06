@@ -1,0 +1,29 @@
+Experience: {
+	LevelUp: "Вы достигли уровня {0}!"
+	SkillUp: "Вы получили 1 очко навыка. Нажмите на шкалу опыта, чтобы открыть дерево навыков."
+}
+
+RarityNames: {
+	Normal: "Обычный"
+	Magic: "Магический"
+	Rare: "Редкий"
+}
+
+GrimoireConsume: "{0} поглощено!"
+GrimoireMaterial: "Используется для Менagerie Гримуара."
+GrimoireBoon: "Обменяно {0} на монеты!"
+ChasmAppears: "Появляется бездна..."
+HealthPotionTooltip: "Зелье здоровья"
+ManaPotionTooltip: "Зелье маны"
+RestoresHealthTooltip: "Восстанавливает {0} здоровья"
+RestoresManaTooltip: "Восстанавливает {0} маны"
+CooldownTooltip: "{0} секунд восстановления"
+NPCLeftWithoutDying: "{0} сбежал!"
+AffixTooltipFrom: " от "
+Enter: "Войти"
+Exit: "Выйти"
+EnterRavencrest: "{$Enter} в Равенкрест"
+Activate: "Активировать"
+FishronSpawn: "Вы слышите рев в отдалении..."
+ImpendingDoom: "Пульс ускоряется в центре мира..."
+VoidPearlCondition: "В сложном режиме или во время квеста 'Раскрытие Хаоса'"

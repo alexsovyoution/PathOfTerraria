@@ -1,0 +1,61 @@
+Keybinds: {
+	UseSkill1.DisplayName: "Использовать 1 способность"
+	UseSkill2.DisplayName: "Использовать 2 способность"
+	UseSkill3.DisplayName: "Использовать 3 способность"
+	UseSkill4.DisplayName: "Использовать 4 способность"
+	UseSkill5.DisplayName: "Использовать 5 способность"
+	CopyItemInfo.DisplayName: "Копировать информацию о предмете"
+	StatUIKey.DisplayName: "Переключить страницу статистики"
+	GearSwap.DisplayName: "Смена оружия"
+	QuestUIKey.DisplayName: "Интерфейс заданий"
+	DropTableKey.DisplayName: "Таблица дропа"
+	PassiveTreeUIKey.DisplayName: "Интерфейс дерева пассивов"
+}
+
+GUI: {
+	PassiveTreeTab: "Пассивы"
+	SkillTreeTab: "Способности"
+	QuestsAvailableTab: "Доступные"
+	QuestsCompletedTab: "Завершённые"
+	PlayerStatsTab: "Статистика"
+}
+
+Generation: {
+	RavencrestEntrancePass: "Открытие Равенкреста"
+	FrozenRuinPass: ""
+}
+
+Tiles: {
+	ArcaneObeliskTile.MapEntry: "Плитка Арканного Обелиска"
+	MechChest.MapEntry: "Механический контейнер"
+}
+
+Waypoints: {
+	RavencrestWaypoint.DisplayName: "Равенкрест"
+	HomeWaypoint.DisplayName: "Дом"
+}
+
+Condition: {
+	BossDowned: {
+		Drop: "Падает только после поражения {0}"
+		AnyMech: "Любой механический босс"
+		The: "the "
+	}
+}
+
+TooltipNotices: {
+	NoSwap: "(Нечего переключать)"
+	Swap: "Если {0} оснащён:"
+	Shift: "(Удерживайте shift, чтобы сравнить статистику)"
+}
+
+Biomes: {
+	RavencrestBiome: {
+		DisplayName: "Равенкрест"
+		TownNPCDialogueName: "Равенкрест"
+	}
+	MechBiome: {
+		DisplayName: "Механизмы"
+		TownNPCDialogueName: "the Mechanisms"
+	}
+}
